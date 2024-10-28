@@ -1,7 +1,7 @@
 
 <div align="center"> 
   
-  [strawpage](https://alienstage.straw.page)
+  [atabook](https://gojo.atabook.org)  ‎ ‎  ‎ ‎    ‎ ‎ [rentry](https://rentry.co/stayhere)
  </div>
  
  </div>
